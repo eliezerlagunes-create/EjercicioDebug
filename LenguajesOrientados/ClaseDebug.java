@@ -105,5 +105,4 @@ public class ClaseDebug {
 
         return "Reprobado";
     }
-    System.out.println("Hola mundo");
 }
