@@ -1,0 +1,11 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": ".",
+            "envManager": "ms-python.python:system",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "r.rpath.windows": "C:\\Program Files\\R\\R-4.6.1\\bin\\x64\\R.exe",
+    "r.rterm.windows": "C:\\Program Files\\R\\R-4.6.1\\bin\\x64\\R.exe"
+}
