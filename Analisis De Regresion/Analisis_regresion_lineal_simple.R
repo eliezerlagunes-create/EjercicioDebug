@@ -80,4 +80,3 @@ shapiro.test(ajuste$residuals)
 xp= 4
 ajuste$coefficients[1]+ajuste$coefficients[2]*xp
 
-print("Hola mundo")
