@@ -77,6 +77,5 @@ dev.off()
 shapiro.test(ajuste$residuals)
 
 #Pronóstico
-xp= 4
+xp= 1
 ajuste$coefficients[1]+ajuste$coefficients[2]*xp
-
